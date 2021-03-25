@@ -1,5 +1,8 @@
 _repo: A-Mississippi-View-of-Race-Relations-in-the-South_64894
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64894-h/images/cover.jpg
 creator:
   author:
     agent_name: Rowland, Dunbar
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41965'
     url: http://www.gutenberg.org/2009/agents/41965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64894#A-Mississippi-View-of-Race-Relations-in-the-South
 gutenberg_issued: '2021-03-21'
 gutenberg_type: Text
 identifiers:
